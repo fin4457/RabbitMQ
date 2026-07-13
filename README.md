@@ -79,6 +79,11 @@ $ rabbitmqadmin get queue='hello'
 
 *Приложите скриншот результата работы второго скрипта.*
 
+![alt text](https://github.com/fin4457/RabbitMQ/blob/main/img/stop_node1.jpg)
+![alt text](https://github.com/fin4457/RabbitMQ/blob/main/img/consumer_node2.jpg)
+![alt text](https://github.com/fin4457/RabbitMQ/blob/main/img/node2.jpg)
+![alt text](https://github.com/fin4457/RabbitMQ/blob/main/img/gethello_node2.jpg)
+
 
 ## Дополнительные задания (со звёздочкой*)
 Эти задания дополнительные, то есть не обязательные к выполнению, и никак не повлияют на получение вами зачёта по этому домашнему заданию. Вы можете их выполнить, если хотите глубже шире разобраться в материале.
