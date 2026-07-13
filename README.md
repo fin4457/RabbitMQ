@@ -6,6 +6,7 @@
 Добавьте management plug-in и зайдите в веб-интерфейс.
 
 *Итогом выполнения домашнего задания будет приложенный скриншот веб-интерфейса RabbitMQ.*
+
 ![alt text](https://github.com/fin4457/RabbitMQ/blob/main/img/web_rabbitmq.jpg)
 ---
 
