@@ -34,8 +34,7 @@ producer.py
 consumer.py
 
 ![alt text](https://github.com/fin4457/RabbitMQ/blob/main/img/consumer.py.jpg)
-
-Для закрепления материала можете попробовать модифицировать скрипты, чтобы поменять название очереди и отправляемое сообщение.
+![alt text](https://github.com/fin4457/RabbitMQ/blob/main/img/consumer_2.jpg)
 
 ---
 
@@ -55,6 +54,10 @@ $ cat /etc/hosts
 Затем объедините две машины в кластер и создайте политику ha-all на все очереди.
 
 *В качестве решения домашнего задания приложите скриншоты из веб-интерфейса с информацией о доступных нодах в кластере и включённой политикой.*
+
+![alt text](https://github.com/fin4457/RabbitMQ/blob/main/img/nodes.jpg)
+
+![alt text](https://github.com/fin4457/RabbitMQ/blob/main/img/ha-all.jpg)
 
 Также приложите вывод команды с двух нод:
 
