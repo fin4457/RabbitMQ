@@ -26,7 +26,9 @@ $ pip install pika
 После чего запустите второй скрипт consumer.py и сделайте скриншот результата выполнения скрипта
 
 *В качестве решения домашнего задания приложите оба скриншота, сделанных на этапе выполнения.*
+producer.py
 ![alt text](https://github.com/fin4457/RabbitMQ/blob/main/img/producer.jpg)
+consumer.py
 ![alt text](https://github.com/fin4457/RabbitMQ/blob/main/img/consumer.py.jpg)
 
 Для закрепления материала можете попробовать модифицировать скрипты, чтобы поменять название очереди и отправляемое сообщение.
